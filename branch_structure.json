@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/cargo/contracts/all-dependencies-9a54b04ddf",
+    "main",
+    "obs/webhook-monitoring-outcome-1232",
+    "origin"
+  ],
+  "parent": {
+    "dependabot/cargo/contracts/all-dependencies-9a54b04ddf": "main",
+    "main": null,
+    "obs/webhook-monitoring-outcome-1232": "main",
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/cargo/contracts/all-dependencies-9a54b04ddf",
+    "obs/webhook-monitoring-outcome-1232",
+    "origin"
+  ]
+}
